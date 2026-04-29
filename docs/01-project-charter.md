@@ -62,4 +62,3 @@
 - **分支策略**：main（最终）← dev（集成）← feature/*（开发）
 - **提交规范**：`<类型>: <描述>`，如 `docs: 完成WBS分解`
 - **合并规则**：所有合并需通过 Pull Request，由项目经理审核
-- **提交人名称**：每人使用自己姓名拼音（sunbo / zhangdongze / chenjingpeng）
